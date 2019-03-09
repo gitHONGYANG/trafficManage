@@ -1,0 +1,13 @@
+[h264 @ 0x5566f07fd980] error while decoding MB 62 13, bytestream -26
+TV52	2018-11-14 15:17:26	videotime  600s	framecount  15000
+TV52	2018-11-14 15:23:43	videotime  1200s	framecount  30000
+TV52	2018-11-14 15:30:01	videotime  1800s	framecount  45000
+TV52	2018-11-14 15:36:17	videotime  2400s	framecount  60000
+TV52	2018-11-14 15:42:36	videotime  3000s	framecount  75000
+TV52	2018-11-14 15:48:54	videotime  3600s	framecount  90000
+TV52	2018-11-14 15:55:07	videotime  4200s	framecount  105000
+TV52	2018-11-14 16:01:18	videotime  4800s	framecount  120000
+TV52	2018-11-14 16:07:43	videotime  5400s	framecount  135000
+TV52	2018-11-14 16:14:02	videotime  6000s	framecount  150000
+TV52	2018-11-14 16:20:19	videotime  6600s	framecount  165000
+TV52  no frame

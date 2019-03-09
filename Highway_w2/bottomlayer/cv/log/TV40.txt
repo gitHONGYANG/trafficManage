@@ -1,0 +1,13 @@
+[h264 @ 0x5597e81514c0] error while decoding MB 117 5, bytestream -22
+TV40	2018-11-14 15:20:32	videotime  600s	framecount  15000
+TV40	2018-11-14 15:29:32	videotime  1200s	framecount  30000
+TV40	2018-11-14 15:38:42	videotime  1800s	framecount  45000
+TV40	2018-11-14 15:47:50	videotime  2400s	framecount  60000
+TV40	2018-11-14 15:56:56	videotime  3000s	framecount  75000
+TV40	2018-11-14 16:06:03	videotime  3600s	framecount  90000
+TV40	2018-11-14 16:15:04	videotime  4200s	framecount  105000
+TV40	2018-11-14 16:24:06	videotime  4800s	framecount  120000
+TV40	2018-11-14 16:33:40	videotime  5400s	framecount  135000
+TV40	2018-11-14 16:41:38	videotime  6000s	framecount  150000
+TV40	2018-11-14 16:48:42	videotime  6600s	framecount  165000
+TV40  no frame

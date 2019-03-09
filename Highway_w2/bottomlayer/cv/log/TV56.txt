@@ -1,0 +1,12 @@
+TV56	2018-11-14 15:21:05	videotime  600s	framecount  15000
+TV56	2018-11-14 15:30:56	videotime  1200s	framecount  30000
+TV56	2018-11-14 15:40:26	videotime  1800s	framecount  45000
+TV56	2018-11-14 15:49:47	videotime  2400s	framecount  60000
+TV56	2018-11-14 15:59:02	videotime  3000s	framecount  75000
+TV56	2018-11-14 16:08:10	videotime  3600s	framecount  90000
+TV56	2018-11-14 16:17:06	videotime  4200s	framecount  105000
+TV56	2018-11-14 16:26:23	videotime  4800s	framecount  120000
+TV56	2018-11-14 16:35:32	videotime  5400s	framecount  135000
+TV56	2018-11-14 16:43:22	videotime  6000s	framecount  150000
+TV56	2018-11-14 16:50:14	videotime  6600s	framecount  165000
+TV56  no frame

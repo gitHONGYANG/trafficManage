@@ -1,0 +1,13 @@
+[h264 @ 0x55cae8111480] error while decoding MB 22 62, bytestream -16
+TV49	2018-11-14 15:20:37	videotime  600s	framecount  15000
+TV49	2018-11-14 15:29:30	videotime  1200s	framecount  30000
+TV49	2018-11-14 15:38:20	videotime  1800s	framecount  45000
+TV49	2018-11-14 15:46:36	videotime  2400s	framecount  60000
+TV49	2018-11-14 15:54:53	videotime  3000s	framecount  75000
+TV49	2018-11-14 16:03:40	videotime  3600s	framecount  90000
+TV49	2018-11-14 16:11:53	videotime  4200s	framecount  105000
+TV49	2018-11-14 16:20:01	videotime  4800s	framecount  120000
+TV49	2018-11-14 16:28:40	videotime  5400s	framecount  135000
+TV49	2018-11-14 16:37:02	videotime  6000s	framecount  150000
+TV49	2018-11-14 16:44:35	videotime  6600s	framecount  165000
+TV49  no frame

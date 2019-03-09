@@ -1,0 +1,2 @@
+TV70 db init
+TV70  no frame

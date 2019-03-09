@@ -1,0 +1,14 @@
+[h264 @ 0x560d66e095c0] error while decoding MB 45 30, bytestream -6
+TV58	2018-11-14 15:17:38	videotime  600s	framecount  15000
+TV58	2018-11-14 15:24:06	videotime  1200s	framecount  30000
+TV58	2018-11-14 15:30:17	videotime  1800s	framecount  45000
+TV58	2018-11-14 15:36:42	videotime  2400s	framecount  60000
+TV58	2018-11-14 15:43:14	videotime  3000s	framecount  75000
+TV58	2018-11-14 15:49:45	videotime  3600s	framecount  90000
+TV58	2018-11-14 15:56:00	videotime  4200s	framecount  105000
+TV58	2018-11-14 16:02:18	videotime  4800s	framecount  120000
+TV58	2018-11-14 16:08:54	videotime  5400s	framecount  135000
+TV58	2018-11-14 16:15:14	videotime  6000s	framecount  150000
+TV58	2018-11-14 16:21:33	videotime  6600s	framecount  165000
+TV58	2018-11-14 16:27:32	videotime  7200s	framecount  180000
+TV58  no frame

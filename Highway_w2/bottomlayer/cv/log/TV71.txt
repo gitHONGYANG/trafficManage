@@ -1,0 +1,2 @@
+TV71 db init
+TV71  no frame

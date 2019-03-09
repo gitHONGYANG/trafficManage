@@ -1,0 +1,13 @@
+[h264 @ 0x56231f11d200] error while decoding MB 36 14, bytestream -6
+TV43	2018-11-14 15:20:41	videotime  600s	framecount  15000
+TV43	2018-11-14 15:29:27	videotime  1200s	framecount  30000
+TV43	2018-11-14 15:39:07	videotime  1800s	framecount  45000
+TV43	2018-11-14 15:48:18	videotime  2400s	framecount  60000
+TV43	2018-11-14 15:57:24	videotime  3000s	framecount  75000
+TV43	2018-11-14 16:06:33	videotime  3600s	framecount  90000
+TV43	2018-11-14 16:15:57	videotime  4200s	framecount  105000
+TV43	2018-11-14 16:25:20	videotime  4800s	framecount  120000
+TV43	2018-11-14 16:34:52	videotime  5400s	framecount  135000
+TV43	2018-11-14 16:42:41	videotime  6000s	framecount  150000
+TV43	2018-11-14 16:49:53	videotime  6600s	framecount  165000
+TV43  no frame

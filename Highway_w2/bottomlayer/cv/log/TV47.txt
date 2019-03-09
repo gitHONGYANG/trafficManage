@@ -1,0 +1,13 @@
+[h264 @ 0x5594d6757d80] error while decoding MB 41 8, bytestream -7
+TV47	2018-11-14 15:21:25	videotime  600s	framecount  15000
+TV47	2018-11-14 15:30:57	videotime  1200s	framecount  30000
+TV47	2018-11-14 15:40:43	videotime  1800s	framecount  45000
+TV47	2018-11-14 15:50:02	videotime  2400s	framecount  60000
+TV47	2018-11-14 15:59:23	videotime  3000s	framecount  75000
+TV47	2018-11-14 16:08:36	videotime  3600s	framecount  90000
+TV47	2018-11-14 16:17:41	videotime  4200s	framecount  105000
+TV47	2018-11-14 16:26:51	videotime  4800s	framecount  120000
+TV47	2018-11-14 16:35:55	videotime  5400s	framecount  135000
+TV47	2018-11-14 16:44:01	videotime  6000s	framecount  150000
+TV47	2018-11-14 16:50:57	videotime  6600s	framecount  165000
+TV47  no frame

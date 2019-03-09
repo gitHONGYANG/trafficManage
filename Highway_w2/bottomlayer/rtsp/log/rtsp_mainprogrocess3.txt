@@ -1,0 +1,3062 @@
+tvlist	 ['TV10', 'TV11', 'TV12', 'TV54']
+Yolo init Success
+model init
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+listening
+build bg 1/200
+build bg 1/200
+build bg 1/200
+build bg 1/200
+build bg 2/200
+build bg 2/200
+build bg 3/200
+build bg 3/200
+build bg 2/200
+build bg 3/200
+build bg 4/200
+/media/assests/Cars/2018-12-16/TV10/TV10_1544914834.4286876.jpg
+build bg 4/200
+upload image
+build bg 4/200
+build bg 5/200
+build bg 5/200
+build bg 6/200
+build bg 6/200
+build bg 5/200
+build bg 6/200
+build bg 7/200
+build bg 7/200
+build bg 7/200
+build bg 8/200
+build bg 8/200
+build bg 9/200
+build bg 9/200
+build bg 8/200
+build bg 9/200
+build bg 10/200
+/media/assests/Cars/2018-12-16/TV11/TV11_1544914852.0486898.jpg
+upload image
+build bg 10/200
+build bg 10/200
+build bg 11/200
+build bg 11/200
+build bg 12/200
+build bg 12/200
+build bg 11/200
+build bg 12/200
+build bg 13/200
+build bg 13/200
+build bg 13/200
+build bg 14/200
+build bg 14/200
+build bg 15/200
+build bg 15/200
+build bg 14/200
+build bg 15/200
+build bg 16/200
+build bg 16/200
+/media/assests/Cars/2018-12-16/TV12/TV12_1544914874.4867725.jpg
+upload image
+build bg 16/200
+build bg 17/200
+build bg 17/200
+build bg 18/200
+build bg 18/200
+build bg 17/200
+build bg 18/200
+build bg 19/200
+build bg 19/200
+build bg 19/200
+build bg 20/200
+build bg 20/200
+build bg 21/200
+build bg 21/200
+build bg 20/200
+build bg 21/200
+build bg 22/200
+build bg 22/200
+build bg 22/200
+build bg 23/200
+build bg 23/200
+build bg 24/200
+build bg 24/200
+build bg 23/200
+build bg 24/200
+build bg 25/200
+build bg 25/200
+build bg 25/200
+build bg 26/200
+build bg 26/200
+build bg 27/200
+build bg 27/200
+build bg 28/200
+build bg 26/200
+build bg 27/200
+build bg 28/200
+build bg 28/200
+build bg 29/200
+build bg 29/200
+build bg 30/200
+build bg 30/200
+build bg 31/200
+build bg 29/200
+build bg 30/200
+build bg 31/200
+build bg 31/200
+build bg 32/200
+build bg 33/200
+build bg 32/200
+build bg 34/200
+build bg 33/200
+build bg 32/200
+build bg 33/200
+build bg 34/200
+build bg 35/200
+build bg 34/200
+build bg 36/200
+build bg 35/200
+build bg 36/200
+build bg 37/200
+build bg 35/200
+build bg 36/200
+build bg 37/200
+build bg 38/200
+build bg 37/200
+build bg 38/200
+build bg 39/200
+build bg 40/200
+build bg 39/200
+build bg 38/200
+build bg 39/200
+build bg 40/200
+build bg 41/200
+build bg 40/200
+build bg 42/200
+build bg 41/200
+build bg 43/200
+build bg 42/200
+build bg 41/200
+build bg 42/200
+build bg 43/200
+build bg 44/200
+build bg 43/200
+build bg 44/200
+build bg 45/200
+build bg 46/200
+build bg 45/200
+build bg 44/200
+build bg 45/200
+build bg 46/200
+build bg 46/200
+build bg 47/200
+build bg 48/200
+build bg 47/200
+build bg 49/200
+build bg 48/200
+build bg 47/200
+build bg 48/200
+build bg 49/200
+build bg 49/200
+build bg 50/200
+build bg 50/200
+build bg 51/200
+build bg 51/200
+build bg 52/200
+build bg 52/200
+build bg 50/200
+build bg 51/200
+build bg 52/200
+build bg 53/200
+build bg 53/200
+build bg 54/200
+build bg 54/200
+build bg 55/200
+build bg 55/200
+build bg 53/200
+build bg 54/200
+build bg 55/200
+build bg 56/200
+build bg 56/200
+build bg 57/200
+build bg 57/200
+build bg 58/200
+build bg 58/200
+build bg 56/200
+build bg 57/200
+build bg 58/200
+build bg 59/200
+build bg 59/200
+build bg 60/200
+build bg 60/200
+build bg 61/200
+build bg 61/200
+build bg 59/200
+build bg 60/200
+build bg 61/200
+build bg 62/200
+build bg 62/200
+build bg 63/200
+build bg 63/200
+build bg 64/200
+build bg 64/200
+build bg 62/200
+build bg 63/200
+build bg 64/200
+build bg 65/200
+build bg 65/200
+build bg 66/200
+build bg 66/200
+build bg 67/200
+build bg 67/200
+build bg 65/200
+build bg 66/200
+build bg 67/200
+build bg 68/200
+build bg 68/200
+build bg 68/200
+build bg 69/200
+build bg 69/200
+build bg 70/200
+build bg 70/200
+build bg 69/200
+build bg 70/200
+build bg 71/200
+build bg 71/200
+build bg 71/200
+build bg 72/200
+build bg 72/200
+build bg 73/200
+build bg 73/200
+build bg 74/200
+build bg 72/200
+build bg 73/200
+build bg 74/200
+build bg 74/200
+build bg 75/200
+build bg 75/200
+build bg 76/200
+build bg 76/200
+build bg 77/200
+build bg 75/200
+build bg 76/200
+build bg 77/200
+build bg 78/200
+build bg 77/200
+build bg 79/200
+build bg 78/200
+build bg 80/200
+build bg 79/200
+build bg 78/200
+build bg 79/200
+build bg 80/200
+build bg 80/200
+build bg 81/200
+build bg 81/200
+build bg 82/200
+build bg 82/200
+build bg 83/200
+build bg 81/200
+build bg 82/200
+build bg 83/200
+build bg 83/200
+build bg 84/200
+build bg 84/200
+build bg 85/200
+build bg 85/200
+build bg 86/200
+build bg 84/200
+build bg 85/200
+build bg 86/200
+build bg 86/200
+build bg 87/200
+build bg 87/200
+build bg 88/200
+build bg 88/200
+build bg 89/200
+build bg 87/200
+build bg 88/200
+build bg 89/200
+build bg 90/200
+build bg 89/200
+build bg 91/200
+build bg 90/200
+build bg 92/200
+build bg 91/200
+build bg 90/200
+build bg 91/200
+build bg 92/200
+build bg 92/200
+build bg 93/200
+build bg 93/200
+build bg 94/200
+build bg 94/200
+build bg 95/200
+build bg 93/200
+build bg 94/200
+build bg 95/200
+build bg 95/200
+build bg 96/200
+build bg 96/200
+build bg 97/200
+build bg 98/200
+build bg 97/200
+build bg 96/200
+build bg 97/200
+build bg 98/200
+build bg 98/200
+build bg 99/200
+build bg 99/200
+build bg 100/200
+build bg 101/200
+build bg 100/200
+build bg 99/200
+build bg 100/200
+build bg 101/200
+build bg 101/200
+build bg 102/200
+build bg 103/200
+build bg 102/200
+build bg 104/200
+build bg 103/200
+build bg 102/200
+build bg 103/200
+build bg 104/200
+build bg 104/200
+build bg 105/200
+build bg 105/200
+build bg 106/200
+build bg 107/200
+build bg 106/200
+build bg 105/200
+build bg 106/200
+build bg 107/200
+build bg 108/200
+build bg 107/200
+build bg 108/200
+build bg 109/200
+build bg 109/200
+build bg 110/200
+build bg 110/200
+build bg 108/200
+build bg 109/200
+build bg 110/200
+build bg 111/200
+build bg 111/200
+build bg 112/200
+build bg 112/200
+build bg 113/200
+build bg 113/200
+build bg 111/200
+build bg 112/200
+build bg 113/200
+build bg 114/200
+build bg 114/200
+build bg 115/200
+build bg 115/200
+build bg 116/200
+build bg 116/200
+build bg 114/200
+build bg 115/200
+build bg 116/200
+build bg 117/200
+build bg 117/200
+build bg 118/200
+build bg 118/200
+build bg 119/200
+build bg 119/200
+build bg 117/200
+build bg 118/200
+build bg 119/200
+build bg 120/200
+build bg 120/200
+build bg 121/200
+build bg 121/200
+build bg 122/200
+build bg 122/200
+build bg 120/200
+build bg 121/200
+build bg 122/200
+build bg 123/200
+build bg 123/200
+build bg 124/200
+build bg 124/200
+build bg 125/200
+build bg 125/200
+build bg 123/200
+build bg 124/200
+build bg 125/200
+build bg 126/200
+build bg 126/200
+build bg 127/200
+build bg 127/200
+build bg 128/200
+build bg 128/200
+build bg 126/200
+build bg 127/200
+build bg 128/200
+build bg 129/200
+build bg 129/200
+build bg 130/200
+build bg 130/200
+build bg 131/200
+build bg 131/200
+build bg 129/200
+build bg 130/200
+build bg 131/200
+build bg 132/200
+build bg 132/200
+build bg 133/200
+build bg 133/200
+build bg 134/200
+build bg 134/200
+build bg 135/200
+build bg 135/200
+build bg 132/200
+build bg 133/200
+build bg 134/200
+build bg 136/200
+build bg 136/200
+build bg 137/200
+build bg 137/200
+build bg 138/200
+build bg 138/200
+build bg 135/200
+build bg 136/200
+build bg 137/200
+build bg 139/200
+build bg 139/200
+build bg 140/200
+build bg 140/200
+build bg 141/200
+build bg 141/200
+build bg 138/200
+build bg 139/200
+build bg 140/200
+build bg 142/200
+build bg 142/200
+build bg 143/200
+build bg 143/200
+build bg 144/200
+build bg 144/200
+build bg 141/200
+build bg 142/200
+build bg 143/200
+build bg 145/200
+build bg 145/200
+build bg 146/200
+build bg 146/200
+build bg 147/200
+build bg 147/200
+build bg 144/200
+build bg 145/200
+build bg 146/200
+build bg 148/200
+build bg 148/200
+build bg 149/200
+build bg 149/200
+build bg 150/200
+build bg 150/200
+build bg 147/200
+build bg 148/200
+build bg 149/200
+build bg 151/200
+build bg 151/200
+build bg 152/200
+build bg 152/200
+build bg 153/200
+build bg 153/200
+build bg 150/200
+build bg 151/200
+build bg 152/200
+build bg 154/200
+build bg 154/200
+build bg 155/200
+build bg 155/200
+build bg 156/200
+build bg 156/200
+build bg 153/200
+build bg 154/200
+build bg 155/200
+build bg 157/200
+build bg 157/200
+build bg 158/200
+build bg 158/200
+build bg 159/200
+build bg 159/200
+build bg 160/200
+build bg 156/200
+build bg 157/200
+build bg 158/200
+build bg 159/200
+build bg 160/200
+build bg 161/200
+build bg 162/200
+build bg 161/200
+build bg 163/200
+build bg 162/200
+build bg 160/200
+build bg 161/200
+build bg 162/200
+build bg 163/200
+build bg 164/200
+build bg 164/200
+build bg 165/200
+build bg 165/200
+build bg 166/200
+build bg 163/200
+build bg 164/200
+build bg 165/200
+build bg 166/200
+build bg 167/200
+build bg 168/200
+build bg 167/200
+build bg 169/200
+build bg 168/200
+build bg 170/200
+build bg 166/200
+build bg 167/200
+build bg 168/200
+build bg 171/200
+build bg 169/200
+build bg 172/200
+build bg 170/200
+build bg 173/200
+build bg 171/200
+build bg 169/200
+build bg 170/200
+build bg 171/200
+build bg 172/200
+build bg 174/200
+build bg 173/200
+build bg 175/200
+build bg 174/200
+build bg 176/200
+build bg 175/200
+build bg 172/200
+build bg 173/200
+build bg 174/200
+build bg 176/200
+build bg 177/200
+build bg 177/200
+build bg 178/200
+TV12  vis	 20
+build bg 178/200
+build bg 179/200
+TV10  vis	 20
+build bg 175/200
+build bg 176/200
+TV11  vis	 20
+build bg 177/200
+build bg 180/200
+build bg 179/200
+build bg 181/200
+build bg 180/200
+build bg 182/200
+build bg 181/200
+build bg 178/200
+build bg 179/200
+build bg 180/200
+build bg 183/200
+build bg 182/200
+build bg 184/200
+build bg 183/200
+build bg 185/200
+build bg 184/200
+build bg 181/200
+build bg 182/200
+build bg 183/200
+build bg 186/200
+build bg 185/200
+build bg 187/200
+build bg 186/200
+build bg 188/200
+build bg 187/200
+build bg 184/200
+build bg 185/200
+build bg 186/200
+build bg 188/200
+build bg 189/200
+TV10  recimg	60
+build bg 190/200
+build bg 189/200
+build bg 191/200
+TV12  recimg	60
+build bg 190/200
+build bg 192/200
+build bg 187/200
+TV11  recimg	60
+build bg 188/200
+build bg 189/200
+build bg 191/200
+build bg 193/200
+build bg 194/200
+build bg 192/200
+build bg 195/200
+build bg 193/200
+build bg 190/200
+build bg 191/200
+build bg 192/200
+build bg 194/200
+build bg 196/200
+build bg 197/200
+build bg 195/200
+build bg 196/200
+build bg 198/200
+build bg 193/200
+build bg 194/200
+build bg 195/200
+build bg 196/200
+build bg 199/200
+build bg 197/200
+build bg 198/200
+build bg 200/200
+build bg 199/200
+TV12 stop cars
+[]
+build bg 197/200
+build bg 198/200
+build bg 199/200
+build bg 200/200
+TV10 stop cars
+[]
+build bg 200/200
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12  vis	 40
+TV12 stop cars
+[]
+TV10  vis	 40
+TV10 stop cars
+[]
+TV11  vis	 40
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12  recimg	120
+TV10  recimg	120
+TV11 stop cars
+[]
+TV11  recimg	120
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV12  vis	 60
+TV10 stop cars
+[]
+TV11  vis	 60
+TV11 stop cars
+[]
+TV10  vis	 60
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12  recimg	180
+TV11 stop cars
+[]
+TV10  recimg	180
+TV12 stop cars
+[]
+TV11  recimg	180
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV12  vis	 80
+TV10  vis	 80
+TV11  vis	 80
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12  recimg	240
+TV10  recimg	240
+TV11  recimg	240
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11  vis	 100
+TV10 stop cars
+[]
+TV10  vis	 100
+TV12  vis	 100
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV12  recimg	300
+TV10 stop cars
+[]
+TV10  recimg	300
+TV11 stop cars
+[]
+TV11  recimg	300
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10  vis	 120
+TV11  vis	 120
+TV12 stop cars
+[]
+TV12  vis	 120
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12  recimg	360
+TV11 stop cars
+[]
+TV10  recimg	360
+TV12 stop cars
+[]
+TV11  recimg	360
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV11  vis	 140
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV10  vis	 140
+TV12  vis	 140
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10  recimg	420
+TV12 stop cars
+[]
+TV12  recimg	420
+TV10 stop cars
+[]
+TV11  recimg	420
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV10  vis	 160
+TV11  vis	 160
+TV11 stop cars
+[]
+TV12  vis	 160
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10  recimg	480
+TV12  recimg	480
+TV10 stop cars
+[]
+TV11  recimg	480
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV11  vis	 180
+TV12 stop cars
+[]
+TV10  vis	 180
+TV12  vis	 180
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12  recimg	540
+TV10  recimg	540
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11  recimg	540
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV10  vis	 200
+TV11 stop cars
+[]
+TV11  vis	 200
+TV12  vis	 200
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV12  recimg	600
+TV10  recimg	600
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11  recimg	600
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11  vis	 220
+TV10  vis	 220
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12  vis	 220
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12  recimg	660
+TV10  recimg	660
+TV11  recimg	660
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV10  vis	 240
+TV12 stop cars
+[]
+TV11  vis	 240
+TV12  vis	 240
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12  recimg	720
+TV10  recimg	720
+TV11  recimg	720
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10  vis	 260
+TV11  vis	 260
+TV12  vis	 260
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12  recimg	780
+TV11 stop cars
+[]
+TV10  recimg	780
+TV12 stop cars
+[]
+TV11  recimg	780
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10  vis	 280
+TV11  vis	 280
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV12  vis	 280
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV12  recimg	840
+TV11 stop cars
+[]
+TV10  recimg	840
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11  recimg	840
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV11 stop cars
+[]
+TV12 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
+TV12 stop cars
+[]
+TV11 stop cars
+[]
+TV10 stop cars
+[]
